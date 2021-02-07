@@ -1,9 +1,10 @@
-# Swift Study
+# Jay's Swift Study Log
 
+### git for studying "Swift Programming by Yagom"
 <br>
 
 ```
-Swift 스위프트 프로그래밍 by 야곰
+Swift 스위프트 프로그래밍 by 야곰 
 ```
 
 <br>
